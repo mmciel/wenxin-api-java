@@ -1,10 +1,10 @@
 # https://cloud.baidu.com/doc/WENXINWORKSHOP/s/flfmc9do2
 baidu:
   wenxin:
-    appName: aimpalaApp
-    appid: 4023966
-    apiKey: FlIOVgTq5LdOW8o2KNP5ixAM
-    secretKey: uN6VxzLQXCSdXx6Wna9x6AcXU2eDjZ3G
+    appName: 123
+    appid: 123
+    apiKey: 123
+    secretKey: 123
 
 logging:
   level:
